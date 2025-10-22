@@ -15,7 +15,7 @@ I believe in the power of data and technology to solve real-world problems and c
 - Data Analysis & Visualization (Python, SQL, Tableau)
 - Statistical Analysis & Hypothesis Testing
 - Machine Learning (Regression, Classification, Clustering)
-- Data Cleaning, Feature Engineering
+- Data Cleaning, Data Visualization
 - Dashboard Design & Storytelling with Data
 
 **Soft Skills:**
