@@ -41,5 +41,3 @@ I believe in the power of data and technology to solve real-world problems and c
 > “Data is not just the new oil — it’s the new lens to see the world through.”  
 > — Anna
 
-
-# https-github.com-annaworobyeva-stack
