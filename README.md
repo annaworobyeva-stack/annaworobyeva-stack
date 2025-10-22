@@ -26,13 +26,6 @@ I believe in the power of data and technology to solve real-world problems and c
 
 ---
 
-### 🌱 Currently Learning
-- Advanced SQL techniques  
-- Machine Learning for business insights  
-- Building portfolio projects with real-world datasets  
-
----
-
 ### 📫 Let's Connect
 - 🌐 [LinkedIn](www.linkedin.com/in/anna-vorobeva-088203257)    
 
