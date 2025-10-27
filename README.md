@@ -34,7 +34,6 @@ Open for collaboration on data analysis projects, visualization dashboards, and 
 
 ### 📫 Let's Connect
 - 🌐 [LinkedIn](www.linkedin.com/in/anna-vorobeva-088203257)    
-- 📬 Reach me at: [annaworobyeva@gmail.com]  
  
 ---
 
