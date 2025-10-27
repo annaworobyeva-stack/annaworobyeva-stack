@@ -25,7 +25,8 @@ I believe in the power of data and technology to solve real-world problems and c
 - Team collaboration  
 
 ---
-## 👩‍💻 Open to Work
+
+### 👩‍💻 Open to Work
 I am actively looking for opportunities as a **Data Analyst** (Python, SQL, Tableau).  
 Open for collaboration on data analysis projects, visualization dashboards, and research tasks.   
 
