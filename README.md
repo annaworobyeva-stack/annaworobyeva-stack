@@ -25,10 +25,16 @@ I believe in the power of data and technology to solve real-world problems and c
 - Team collaboration  
 
 ---
+## 👩‍💻 Open to Work
+I am actively looking for opportunities as a **Data Analyst** (Python, SQL, Tableau).  
+Open for collaboration on data analysis projects, visualization dashboards, and research tasks.   
+
+---
 
 ### 📫 Let's Connect
 - 🌐 [LinkedIn](www.linkedin.com/in/anna-vorobeva-088203257)    
-
+- 📬 Reach me at: [annaworobyeva@gmail.com]  
+ 
 ---
 
 > “Data is not just the new oil — it’s the new lens to see the world through.”  
